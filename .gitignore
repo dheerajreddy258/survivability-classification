@@ -1,5 +1,2 @@
-data/*.csv
+venv/
 models/
-*.pkl
-*.dvc
-.dvc/
