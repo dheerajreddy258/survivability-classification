@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac2654613531408791cfcc82026a2e19/artifacts
+end_time: 1755703537590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac2654613531408791cfcc82026a2e19
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755703525211
+status: 3
+tags: []
+user_id: Dheeraj Reddy

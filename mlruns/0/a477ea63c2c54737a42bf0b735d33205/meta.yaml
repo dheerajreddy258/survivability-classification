@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a477ea63c2c54737a42bf0b735d33205/artifacts
+end_time: 1755703524549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a477ea63c2c54737a42bf0b735d33205
+run_name: logistic
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755703343968
+status: 3
+tags: []
+user_id: Dheeraj Reddy

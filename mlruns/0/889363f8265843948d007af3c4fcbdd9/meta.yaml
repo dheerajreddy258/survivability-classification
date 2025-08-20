@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/889363f8265843948d007af3c4fcbdd9/artifacts
+end_time: 1755703549937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 889363f8265843948d007af3c4fcbdd9
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755703538232
+status: 3
+tags: []
+user_id: Dheeraj Reddy
