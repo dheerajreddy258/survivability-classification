@@ -46,5 +46,5 @@ def main():
     for name, model in models.items():
         train_and_log_model(model, name, X_train, X_test, y_train, y_test)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     main()
