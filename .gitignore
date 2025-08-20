@@ -1,0 +1,5 @@
+data/*.csv
+models/
+*.pkl
+*.dvc
+.dvc/
