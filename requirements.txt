@@ -2,3 +2,10 @@ pandas
 numpy
 dvc
 scikit-learn
+mlflow
+joblib
+fastapi
+uvicorn
+pytest
+docker 
+
